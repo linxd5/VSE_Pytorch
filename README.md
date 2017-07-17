@@ -34,14 +34,14 @@ learning_rate: 0.01, batch_size: 200, validFreq: 100, dim&dim_word: 1000
 Cost 2G GPU memory and 485s.
 
 ## MSCOCO
-learning_rate: 0.01, batch_size: 200, validFreq: 100, dim&dim_word: 1000
+learning_rate: 0.01, batch_size: 300, validFreq: 100, dim&dim_word: 1000
 
 
 | Method       | aR@1 | aR@5 | aR@10 | aMedr | sR@1 | sR@5 | sR@10 | sMedr |
 | ------------ | ---- | ---- | ----- | ----- | ---- | ---- | ----- | ----- |
-| This project | 37.8 | 70.3 | 82.3  |   2   | 29.9 | 65.8 | 81.0  |   3  |
+| This project | 38.1 | 72.7 | 84.7  |   2   | 31.7 | 67.9 | 81.2  |   3  |
 
-Cost 2G GPU memory and 976s.
+Cost 2G GPU memory and 1180s.
 
 
 
